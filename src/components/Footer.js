@@ -110,7 +110,7 @@ function Footer() {
         {/* Bottom Section */}
         <div className="mt-12 border-t border-gray-200 pt-8">
           <p className="text-sm text-gray-400 text-center">
-            © {new Date().getFullYear()} Casava. All rights reserved.
+            © {new Date().getFullYear()} Duta Alamin. All rights reserved.
           </p>
         </div>
       </div>
@@ -119,3 +119,4 @@ function Footer() {
 }
 
 export default Footer;
+
